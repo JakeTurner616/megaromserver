@@ -1,54 +1,123 @@
-=====================
+---
+layout: default
+---
 
-## Ian O'Byrne
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-### Educator, Researcher, Learner 
+[Link to another page](./another-page.html).
 
-![ChangeMe](https://live.staticflickr.com/1516/26082296122_f2675d3d87_o.jpg)
+There should be whitespace between paragraphs.
 
-![text](https://www.publicdomainpictures.net/pictures/350000/nahled/apple-1591708617vbm.jpg)
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-wiobyrne.com
+# Header 1
 
-@wiobyrne
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-linkedin.com/in/CHANGEME
+## Header 2
 
-github.com/CHANGEME
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-=====================
+### Header 3
 
-### In A Nutshell
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
-> Sartorial schlitz ugh excepteur officia, placeat you probably haven't heard of them aute typewriter laborum culpa. Reprehenderit DIY microdosing roof party vinyl. Pug bespoke single-origin coffee distillery, austin culpa voluptate quis keytar. Ennui seitan health goth, gluten-free pop-up VHS truffaut. 
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
-> Affogato food truck sint, kinfolk yr cornhole single-origin coffee artisan chambray banh mi. Selfies authentic cred crucifix, flexitarian thundercats cronut pug disrupt health goth. Crucifix magna ex, etsy kale chips tote bag jean shorts.
+#### Header 4
 
-=====================
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
-### Superpowers 
+##### Header 5
 
-- First 
-- Second
-- Third 
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
 
-=====================
+###### Header 6
 
-### Experience (last five years)
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
-Organization / Role
-YEAR - PRESENT (LOCATION)
+### There's a horizontal rule below this.
 
-Organization / Role
-YEAR - PRESENT (LOCATION)
+* * *
 
-Organization / Role
-YEAR - PRESENT (LOCATION)
+### Here is an unordered list:
 
-=====================
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
 
-### Current Interests
+### And an ordered list:
 
-- First 
-- Second
-- Third 
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
