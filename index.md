@@ -2,122 +2,42 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<style>#header_wrap {visibility: hidden; display: none;}</style>
+<div id="megaromserver"></div>
+<html>
+  <center>
+    <style>
+      #core-wrapper > div > div > center:nth-child(2) > div > iframe {
+      border: 2px solid;
+      border-color: #000; 
+      }
+     </style> 
+<div class="video-container">
+    <iframe name="megaromserver" id="megaromserver" src="https://files.serverboi.org/s/MEGAROMSERVER" height="625px" width="100%" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+  </center>
+</html> 
+<noscript>
+  <style>
+    html body div#main-wrapper.d-flex.justify-content-center div#main.container.pl-xl-4.pr-xl-4 div.row div#core-wrapper.col-12.col-lg-11.col-xl-9.pr-xl-4 div.post.pl-1.pr-1.pl-md-2.pr-md-2 div.post-content center div.video-container iframe {
+      visibility: hidden;
+      height: 0px;
+    }
+    html body div#main-wrapper.d-flex.justify-content-center div#main.container.pl-xl-4.pr-xl-4 div.row div#core-wrapper.col-12.col-lg-11.col-xl-9.pr-xl-4 div.post.pl-1.pr-1.pl-md-2.pr-md-2 div.post-content center div#linkDiv a#Link {
+      visibility: hidden;
+      height: 0px;
+    }
+    html body div#main-wrapper.d-flex.justify-content-center div#main.container.pl-xl-4.pr-xl-4 div.row div#core-wrapper.col-12.col-lg-11.col-xl-9.pr-xl-4 div.post.pl-1.pr-1.pl-md-2.pr-md-2 div.post-content center p iframe#iframe2 {
+      visibility: hidden;
+      height: 0px;
+    }
+   </style> 
+<html>
+  <center>
+    <h4>wget -r -nc  --no-parent -l 200 -e robots=off -R "index.html*" -x https://url-goes-here</h4>
+      <iframe name="NoJavascript" id="NoJavascript" src="https://od.serverboi.org" height="900px" width="100%" allowfullscreen="" frameborder="0">
+      </iframe>
+    </center>
+  </html>
+</noscript> 
